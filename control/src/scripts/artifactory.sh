@@ -34,5 +34,5 @@ else
 	usage
 fi
 echo "Done Action=$ACTION"
-echo "Access artifactory over : http://den00rni.us.oracle.com:8081/artifactory with login admin/password"
+echo "Access artifactory over : http://den00rni:8081/artifactory with login admin/password"
 
